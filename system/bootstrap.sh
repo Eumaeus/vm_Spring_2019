@@ -84,6 +84,9 @@ cd /vagrant
 #git clone https://github.com/Eumaeus/fyw-scala.git
 #git clone https://github.com/Eumaeus/fuCiteDX.git
 
+cp system/vimrc /home/vagrant/.vimrc
+cp system/dotprofile /home/vagrant/.profile
+
 
 # Final clean up
 sudo apt-get -y autoremove

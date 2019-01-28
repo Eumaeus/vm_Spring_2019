@@ -46,4 +46,7 @@ Link: [A basic introduction to the Unix command line](https://eumaeus.github.io/
 
 - [Pandoc](http://pandoc.org): This VM is preconfigured with Pandoc, the incredibly powerful utility for converting among different textual file formats.
 
+## Some Details, expanded:
+
+This VM image is a *headless* version of Linux; that is, it does not include a GUI, so the only interaction is through the CLI. The particular version of Linux is **Ubuntu 14.04 LTS**, that is, the 14th version of Ubuntu Linux, a version designated for "long terms service".
 		
